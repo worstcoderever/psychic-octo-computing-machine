@@ -1,4 +1,4 @@
 psychic-octo-computing-machine
 ==============================
 
-Just working variables. 
+I think that I regret taking the auto-generated suggested name.  
